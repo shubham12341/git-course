@@ -1,2 +1,4 @@
 Get the Data from the User
 Process the Data
+
+User avatar feature added successfully!
