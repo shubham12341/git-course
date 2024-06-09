@@ -1,0 +1,2 @@
+Can add and remove users
+can assign roles to the users
